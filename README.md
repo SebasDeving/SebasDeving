@@ -2,7 +2,7 @@
 
 <h2>Sobre mí 😃</h2>
 <p align="left">
-  - 🎓 Ingeniero de Sistemas, Ingeniero de Telecomunicaciones, Tecnologo en TICS y Desarrollador en la Policia Nacional Colombiana<br>
+  - 🎓 Ingeniero de Sistemas, Pentesting, Tecnologo en TICS y Desarrollador en la Policia Nacional Colombiana<br>
   - 📫 Contacto: <strong>sebasdeveloper@hotmail.com</strong> <br>
   - 💻 Soy programador competitivo en <code>Codeforces</code>, <code>Leetcode</code>.
 </p>
