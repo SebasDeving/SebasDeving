@@ -10,7 +10,7 @@
 <h2>Tecnologías conocidas 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,php,laravel,cs,hibernate,css,html,mysql,mongodb,git,github,idea,vscode,js,kali,notion,astro,.net" />
+    <img src="https://skillicons.dev/icons?i=python,django,php,laravel,cs,hibernate,css,html,mysql,mongodb,git,github,idea,vscode,js,kali,notion,astro,net" />
   </a>
 </p>
 
