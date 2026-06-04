@@ -97,14 +97,6 @@ class SebasDeving:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SebasDeving&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0000&title_color=FF2020&icon_color=CC0000&text_color=ffcccc&show=prs_merged,prs_merged_percentage,reviews,discussions_answered"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDeving&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d0000&title_color=FF2020&text_color=ffcccc&count_private=true"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=SebasDeving&theme=shadow-red&hide_border=true&border_radius=4.3&card_width=499)](https://git.io/streak-stats)
 
 </div>
