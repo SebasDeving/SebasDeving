@@ -12,7 +12,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-1a0000?style=for-the-badge&logo=codeforces&logoColor=FF4444&labelColor=1a0000&color=8B0000)](https://codeforces.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-1a0000?style=for-the-badge&logo=leetcode&logoColor=FF4444&labelColor=1a0000&color=8B0000)](https://leetcode.com/)
 
-📍 *Colombia 🇨🇴 - Bogota D.C*
+📍 *Colombia - Bogota D.C*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF2020&background=00000000&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+%F0%9F%92%BB;Pentester+%26+Ethical+Hacker+%F0%9F%94%90;Polic%C3%ADa+Nacional+Colombiana+%F0%9F%91%AE;Programaci%C3%B3n+Competitiva+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
