@@ -105,7 +105,7 @@ class SebasDeving:
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SebasDeving&theme=shadow-red&hide_border=true&border_radius=4.3&card_width=499" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SebasDeving&theme=shadow-red&hide_border=true&border_radius=4.3&card_width=499)](https://git.io/streak-stats)
 
 </div>
 
@@ -115,7 +115,7 @@ class SebasDeving:
 
 <div align="center">
 
-[[![trophy](https://github-profile-trophy.vercel.app/?username=SebasDeving&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=SebasDeving&theme=monokai)
+[[![trophy](https://github-profile-trophy.vercel.app/?username=SebasDeving&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)]
 
 </div>
 
