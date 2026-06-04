@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- Banner animado -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=%3E%3E%3E+Desarrollando+software+para+la+PNC...;%3E%3E%3E+Analizando+vulnerabilidades...;%3E%3E%3E+git+commit+-m+'protect+%26+serve';%3E%3E%3E+Resolviendo+en+Codeforces...;%3E%3E%3E+Building+secure+systems...)](https://git.io/typing-svg)
 
 # ██ SEBASTIAN CELY · SEBASDEVING ██
 
-<img src="https://img.shields.io/badge/👮_PNC-Policía_Nacional-CC0000?style=for-the-badge&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/🎓_Ing._Sistemas-TICS-CC0000?style=for-the-badge&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/🔐_Pentesting-Ethical_Hacking-CC0000?style=for-the-badge&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Colombia-🇨🇴-CC0000?style=for-the-badge&labelColor=0a0a0a" />
+![PNC](https://img.shields.io/badge/%F0%9F%91%AE_PNC-Polic%C3%ADa_Nacional-CC0000?style=for-the-badge&labelColor=0a0a0a)
+![Ingeniería](https://img.shields.io/badge/%F0%9F%8E%93_Ing._Sistemas-TICS-CC0000?style=for-the-badge&labelColor=0a0a0a)
+![Seguridad](https://img.shields.io/badge/%F0%9F%94%90_Pentesting-Ethical_Hacking-CC0000?style=for-the-badge&labelColor=0a0a0a)
+![Colombia](https://img.shields.io/badge/Colombia-%F0%9F%87%A8%F0%9F%87%B4-CC0000?style=for-the-badge&labelColor=0a0a0a)
 
 </div>
 
@@ -25,11 +24,11 @@ class SebasDeving:
     contacto   = "sebasdeveloper@hotmail.com"
 
     stack = {
-        "backend":     ["Python", "Django", "PHP", "Laravel", "C#", ".NET"],
-        "frontend":    ["HTML", "CSS", "JavaScript", "Astro"],
-        "db":          ["MySQL", "MongoDB", "Hibernate"],
-        "seguridad":   ["Kali Linux", "Pentesting", "Ethical Hacking"],
-        "herramientas":["Git", "GitHub", "IntelliJ IDEA", "VS Code", "Notion"],
+        "backend":      ["Python", "Django", "PHP", "Laravel", "C#", ".NET"],
+        "frontend":     ["HTML", "CSS", "JavaScript", "Astro"],
+        "db":           ["MySQL", "MongoDB", "Hibernate"],
+        "seguridad":    ["Kali Linux", "Pentesting", "Ethical Hacking"],
+        "herramientas": ["Git", "GitHub", "IntelliJ IDEA", "VS Code", "Notion"],
     }
 
     actualmente_aprendiendo = "Ciberseguridad avanzada & Algoritmia"
@@ -43,7 +42,7 @@ class SebasDeving:
 <div align="center">
 
 ### ⚙️ Backend
-[![Skills](https://skillicons.dev/icons?i=python,django,php,laravel,cs,net&theme=dark&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,django,php,laravel,cs,dotnet&theme=dark&perline=6)](https://skillicons.dev)
 
 ### 🌐 Frontend & DB
 [![Skills](https://skillicons.dev/icons?i=html,css,js,astro,mysql,mongodb&theme=dark&perline=6)](https://skillicons.dev)
@@ -80,9 +79,9 @@ class SebasDeving:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SebasDeving&show_icons=true&theme=blood_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=CC0000&icon_color=CC0000&bg_color=0a0a0a"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SebasDeving&show_icons=true&theme=blood_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=CC0000&icon_color=CC0000&bg_color=0a0a0a" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDeving&layout=compact&langs_count=8&theme=blood_dark&hide_border=true&title_color=CC0000&bg_color=0a0a0a"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDeving&layout=compact&langs_count=8&theme=blood_dark&hide_border=true&title_color=CC0000&bg_color=0a0a0a" alt="Top Languages"/>
 
 </div>
 
