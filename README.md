@@ -103,16 +103,6 @@ class SebasDeving:
 
 ---
 
-## `05 //` Trophies
-
-<div align="center">
-
-https://github-profile-trophy.vercel.app/?username=SebasDeving&theme=onestar
-
-</div>
-
----
-
 ## `06 //` Área de especialización
 
 ```
