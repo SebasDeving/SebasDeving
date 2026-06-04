@@ -105,7 +105,7 @@ class SebasDeving:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SebasDeving&theme=dark&hide_border=true&background=0d0000&stroke=CC0000&ring=FF2020&fire=8B0000&currStreakLabel=FF2020&sideLabels=CC0000&dates=ffcccc)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SebasDeving&theme=shadow-red&hide_border=true&border_radius=4.3&card_width=499)](https://git.io/streak-stats)
 
 </div>
 
