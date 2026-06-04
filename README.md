@@ -105,7 +105,7 @@ class SebasDeving:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SebasDeving&theme=shadow-red&hide_border=true&border_radius=4.3&card_width=499)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SebasDeving&theme=shadow-red&hide_border=true&border_radius=4.3&card_width=499" alt="GitHub Streak" /></a>
 
 </div>
 
