@@ -1,21 +1,20 @@
-
+<!-- HEADER -->
 <div align="center">
 
-```
-███████╗███████╗██████╗  █████╗ ███████╗
-██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝
-███████╗█████╗  ██████╔╝███████║███████╗
-╚════██║██╔══╝  ██╔══██╗██╔══██║╚════██║
-███████║███████╗██████╔╝██║  ██║███████║
-╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚══════╝
-     D  E  V  I  N  G
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,25:1a0000,50:8B0000,75:CC0000,100:FF2020&height=220&section=header&text=Sebastian%20Cely&fontSize=56&fontColor=FF4444&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Pentester%20%7C%20Polic%C3%ADa%20Nacional%20Colombiana&descAlignY=60&descSize=16&animation=fadeIn&fontAlign=50" />
 
-# Sebastian Cely · `@SebasDeving`
+🔐 · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 💀 · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 🔐
 
-> *"El código es la herramienta, la seguridad es el objetivo."* 🔐
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+%F0%9F%92%BB;Pentester+%26+Ethical+Hacker+%F0%9F%94%90;Polic%C3%ADa+Nacional+Colombiana+%F0%9F%91%AE;Programaci%C3%B3n+Competitiva+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Email](https://img.shields.io/badge/sebasdeveloper@hotmail.com-1a0000?style=for-the-badge&logo=microsoftoutlook&logoColor=FF4444&labelColor=1a0000&color=8B0000)](mailto:sebasdeveloper@hotmail.com)
+[![GitHub](https://img.shields.io/badge/SebasDeving-1a0000?style=for-the-badge&logo=github&logoColor=FF4444&labelColor=1a0000&color=8B0000)](https://github.com/SebasDeving)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1a0000?style=for-the-badge&logo=codeforces&logoColor=FF4444&labelColor=1a0000&color=8B0000)](https://codeforces.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a0000?style=for-the-badge&logo=leetcode&logoColor=FF4444&labelColor=1a0000&color=8B0000)](https://leetcode.com/)
+
+📍 *Colombia 🇨🇴*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF2020&background=00000000&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+%F0%9F%92%BB;Pentester+%26+Ethical+Hacker+%F0%9F%94%90;Polic%C3%ADa+Nacional+Colombiana+%F0%9F%91%AE;Programaci%C3%B3n+Competitiva+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 </div>
 
@@ -51,28 +50,28 @@ class SebasDeving:
 ## `02 //` Stack tecnológico
 
 ### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=FF4444)
+![Django](https://img.shields.io/badge/Django-1a0000?style=for-the-badge&logo=django&logoColor=FF4444)
+![PHP](https://img.shields.io/badge/PHP-2a0000?style=for-the-badge&logo=php&logoColor=FF4444)
+![Laravel](https://img.shields.io/badge/Laravel-CC0000?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-8B0000?style=for-the-badge&logo=csharp&logoColor=FF4444)
+![.NET](https://img.shields.io/badge/.NET-3a0000?style=for-the-badge&logo=dotnet&logoColor=FF4444)
 
 ### 🌐 Frontend & Bases de Datos
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-CC0000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8B0000?style=for-the-badge&logo=css3&logoColor=FF4444)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0000?style=for-the-badge&logo=javascript&logoColor=FF4444)
+![Astro](https://img.shields.io/badge/Astro-3a0000?style=for-the-badge&logo=astro&logoColor=FF4444)
+![MySQL](https://img.shields.io/badge/MySQL-8B0000?style=for-the-badge&logo=mysql&logoColor=FF4444)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a0000?style=for-the-badge&logo=mongodb&logoColor=FF4444)
 
 ### 🛠️ Herramientas & Seguridad
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d0000?style=for-the-badge&logo=kalilinux&logoColor=FF4444)
+![Git](https://img.shields.io/badge/Git-CC0000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=FF4444)
+![VS Code](https://img.shields.io/badge/VS_Code-8B0000?style=for-the-badge&logo=visualstudiocode&logoColor=FF4444)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0d0000?style=for-the-badge&logo=intellijidea&logoColor=FF4444)
+![Notion](https://img.shields.io/badge/Notion-1a0000?style=for-the-badge&logo=notion&logoColor=FF4444)
 
 ---
 
@@ -89,8 +88,8 @@ class SebasDeving:
 └─────────────────────────────────────────────────────────────┘
 ```
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1a0000?style=for-the-badge&logo=codeforces&logoColor=FF4444&color=8B0000)](https://codeforces.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a0000?style=for-the-badge&logo=leetcode&logoColor=FF4444&color=8B0000)](https://leetcode.com/)
 
 ---
 
@@ -98,15 +97,15 @@ class SebasDeving:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SebasDeving&show_icons=true&theme=matrix&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SebasDeving&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0000&title_color=FF2020&icon_color=CC0000&text_color=ffcccc&show=prs_merged,prs_merged_percentage,reviews,discussions_answered"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDeving&layout=compact&langs_count=8&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDeving&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d0000&title_color=FF2020&text_color=ffcccc&count_private=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SebasDeving&theme=matrix&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SebasDeving&theme=dark&hide_border=true&background=0d0000&stroke=CC0000&ring=FF2020&fire=8B0000&currStreakLabel=FF2020&sideLabels=CC0000&dates=ffcccc)](https://git.io/streak-stats)
 
 </div>
 
@@ -116,7 +115,7 @@ class SebasDeving:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SebasDeving&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SebasDeving&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -142,7 +141,7 @@ class SebasDeving:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SebasDeving&theme=matrix&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=FF6B35)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SebasDeving&theme=react-dark&bg_color=0d0000&color=FF4444&line=CC0000&point=8B0000&area=true&hide_border=true&area_color=CC0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -152,8 +151,8 @@ class SebasDeving:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-sebasdeveloper%40hotmail.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sebasdeveloper@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SebasDeving-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SebasDeving)
+[![Email](https://img.shields.io/badge/Email-sebasdeveloper%40hotmail.com-8B0000?style=for-the-badge&logo=microsoftoutlook&logoColor=FF4444&labelColor=1a0000)](mailto:sebasdeveloper@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SebasDeving-1a0000?style=for-the-badge&logo=github&logoColor=FF4444&labelColor=0d0000&color=8B0000)](https://github.com/SebasDeving)
 
 </div>
 
@@ -165,6 +164,14 @@ class SebasDeving:
 // "El código es la herramienta, la seguridad es el objetivo." 🔐
 ```
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SebasDeving.SebasDeving&color=00FF41)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SebasDeving.SebasDeving&color=CC0000)
+
+</div>
+
+<div align="center">
+
+🔐 · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 💀 · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 🔐
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,50:8B0000,100:0d0000&height=130&section=footer&animation=fadeIn"/>
 
 </div>
