@@ -68,7 +68,7 @@ class SebasDeving:
 ![.NET](https://img.shields.io/badge/.NET-3a0000?style=for-the-badge&logo=dotnet&logoColor=FF4444)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3a0000?style=for-the-badge&logo=postgresql&logoColor=FF4444)
 ![React](https://img.shields.io/badge/React-8B0000?style=for-the-badge&logo=react&logoColor=FF4444)
-![Angular](https://img.shields.io/badge/Angular-8B0000?style=for-the-badge&logo=angular&logoColor=FF4444)
+![Angular](https://img.shields.io/badge/Angular-8B0000?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🛠️ Herramientas & Seguridad
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d0000?style=for-the-badge&logo=kalilinux&logoColor=FF4444)
