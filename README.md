@@ -33,7 +33,7 @@ class SebasDeving:
     stack = {
         "backend":      ["Python", "Django", "PHP", "Laravel", "C#", "TypeScript"],
         "frontend":     ["HTML", "CSS", "JavaScript", "Astro", "React", ".NET" , "MAUI", "Razor", "Angular"],
-        "db":           ["MySQL", "MongoDB", "Hibernate", "PostgresSQL", "OracleSql"],
+        "db":           ["MySQL", "MongoDB", "Hibernate", "PostgreSQL", "OracleSql"],
         "Redes":        ["Packet Tracer", "Nmap", "WireShark"],
         "seguridad":    ["Kali Linux", "Pentesting", "Ethical Hacking" etc.],
         "herramientas": ["Git", "GitHub", "IntelliJ IDEA", "VS Code", "Notion", "PLSQL", etc.],
@@ -66,8 +66,8 @@ class SebasDeving:
 ![MySQL](https://img.shields.io/badge/MySQL-8B0000?style=for-the-badge&logo=mysql&logoColor=FF4444)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a0000?style=for-the-badge&logo=mongodb&logoColor=FF4444)
 ![.NET](https://img.shields.io/badge/.NET-3a0000?style=for-the-badge&logo=dotnet&logoColor=FF4444)
-![PossgresSQL](https://img.shields.io/badge/PostgressSQL-3a0000?style=for-the-badge&logo=dotnet&logoColor=FF4444)
-![React](https://img.shields.io/badge/React-8B0000?style=for-the-badge&logo=csharp&logoColor=FF4444)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3a0000?style=for-the-badge&logo=postgresql&logoColor=FF4444)
+![React](https://img.shields.io/badge/React-8B0000?style=for-the-badge&logo=react&logoColor=FF4444)
 
 ### 🛠️ Herramientas & Seguridad
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d0000?style=for-the-badge&logo=kalilinux&logoColor=FF4444)
