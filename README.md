@@ -56,7 +56,7 @@ class SebasDeving:
 ![PHP](https://img.shields.io/badge/PHP-2a0000?style=for-the-badge&logo=php&logoColor=FF4444)
 ![Laravel](https://img.shields.io/badge/Laravel-CC0000?style=for-the-badge&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-8B0000?style=for-the-badge&logo=csharp&logoColor=FF4444)
-![.NET](https://img.shields.io/badge/.NET-3a0000?style=for-the-badge&logo=dotnet&logoColor=FF4444)
+
 
 ### 🌐 Frontend & Bases de Datos
 ![HTML5](https://img.shields.io/badge/HTML5-CC0000?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,6 +65,9 @@ class SebasDeving:
 ![Astro](https://img.shields.io/badge/Astro-3a0000?style=for-the-badge&logo=astro&logoColor=FF4444)
 ![MySQL](https://img.shields.io/badge/MySQL-8B0000?style=for-the-badge&logo=mysql&logoColor=FF4444)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a0000?style=for-the-badge&logo=mongodb&logoColor=FF4444)
+![.NET](https://img.shields.io/badge/.NET-3a0000?style=for-the-badge&logo=dotnet&logoColor=FF4444)
+![PossgresSQL](https://img.shields.io/badge/PostgressSQL-3a0000?style=for-the-badge&logo=dotnet&logoColor=FF4444)
+![React](https://img.shields.io/badge/React-8B0000?style=for-the-badge&logo=csharp&logoColor=FF4444)
 
 ### 🛠️ Herramientas & Seguridad
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d0000?style=for-the-badge&logo=kalilinux&logoColor=FF4444)
