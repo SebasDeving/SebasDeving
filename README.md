@@ -31,11 +31,12 @@ class SebasDeving:
     contacto   = "sebasdeveloper@hotmail.com"
 
     stack = {
-        "backend":      ["Python", "Django", "PHP", "Laravel", "C#", ".NET"],
-        "frontend":     ["HTML", "CSS", "JavaScript", "Astro"],
-        "db":           ["MySQL", "MongoDB", "Hibernate"],
-        "seguridad":    ["Kali Linux", "Pentesting", "Ethical Hacking"],
-        "herramientas": ["Git", "GitHub", "IntelliJ IDEA", "VS Code", "Notion"],
+        "backend":      ["Python", "Django", "PHP", "Laravel", "C#", "TypeScript"],
+        "frontend":     ["HTML", "CSS", "JavaScript", "Astro", "React", ".NET" , "MAUI", "Razor", "Angular"],
+        "db":           ["MySQL", "MongoDB", "Hibernate", "PostgresSQL", "OracleSql"],
+        "Redes":        ["Packet Tracer", "Nmap", "WireShark"],
+        "seguridad":    ["Kali Linux", "Pentesting", "Ethical Hacking" etc.],
+        "herramientas": ["Git", "GitHub", "IntelliJ IDEA", "VS Code", "Notion", "PLSQL", etc.],
     }
 
     actualmente_aprendiendo = "Ciberseguridad avanzada & Algoritmia"
