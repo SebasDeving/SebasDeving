@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,25:1a0000,50:8B0000,75:CC0000,100:FF2020&height=220&section=header&text=Sebastian%20Cely&fontSize=56&fontColor=FF4444&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Pentester%20%7C%20Polic%C3%ADa%20Nacional%20Colombiana&descAlignY=60&descSize=16&animation=fadeIn&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,25:1a0000,50:8B0000,75:CC0000,100:FF2020&height=220&section=header&text=Sebastian%20Cely&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Pentester%20%7C%20Polic%C3%ADa%20Nacional%20Colombiana&descAlignY=60&descSize=16&animation=fadeIn&fontAlign=50" />
 
 🔐 · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 💀 · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 🔐
 
